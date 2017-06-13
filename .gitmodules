@@ -1,0 +1,30 @@
+[submodule "usb"]
+	path = usb
+	url = https://github.com/novalabs/usb_module.git
+[submodule "udc"]
+	path = udc
+	url = https://github.com/novalabs/udc_module.git
+[submodule "dc"]
+	path = dc
+	url = https://github.com/novalabs/dc_module.git
+[submodule "imu"]
+	path = imu
+	url = https://github.com/novalabs/imu_module.git
+[submodule "stepper"]
+	path = stepper
+	url = https://github.com/novalabs/stepper_module.git
+[submodule "io"]
+	path = io
+	url = https://github.com/novalabs/io_module.git
+[submodule "eth"]
+	path = eth
+	url = https://github.com/novalabs/eth_module.git
+[submodule "eth-poe"]
+	path = eth-poe
+	url = https://github.com/novalabs/eth-poe_module.git
+[submodule "proximity"]
+	path = proximity
+	url = https://github.com/novalabs/proximity_module.git
+[submodule "adc"]
+	path = adc
+	url = https://github.com/novalabs/adc_module.git
